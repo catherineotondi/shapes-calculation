@@ -1,3 +1,4 @@
+// circle
 function areaAndPeriOfCircle(radius: number) {
     let area = Math.PI * Math.pow(radius, 2);
     let perimeter = 2 * Math.PI * radius;
